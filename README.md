@@ -1,7 +1,5 @@
 # Meikyō (明鏡) - La Langue du Miroir Limpide
 
-<img src="cathedral.png" align="right" width="250"/>
-
 [Youtube](https://youtu.be/05DRuuN3OSo) [Download](fr/Meikyo.pdf)
 
 ## Introduction
@@ -19,6 +17,7 @@ L'architecture de Meikyō repose sur un ADN métaphysique et éthique qui justif
 Le postulat fondamental de Meikyō est une cosmologie holistique et déterministe ancrée dans la théorie de l'univers-bloc. Selon cette interprétation de la physique d'Einstein, l'espace-temps est une structure statique à quatre dimensions où tous les événements (passés, présents et futurs) coexistent avec une égale réalité ontologique. Notre perception de "l'écoulement du temps" est une illusion.
 
 Dans ce cadre :
+
 * La naissance et la mort sont les délimitations d'un "ver spatio-temporel" que constitue un individu.
 * Honorer ses aïeux devient un acte de communion avec des êtres qui coexistent à d'autres coordonnées spatio-temporelles. Le langage s'adresse donc à eux dans un présent éternel.
 
