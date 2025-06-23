@@ -1,6 +1,6 @@
 # Meikyō (明鏡) - La Langue du Miroir Limpide
 
-<img src="cathedral.png" align="right" width="777"/>
+<img src="cathedral.png" align="right" width="250"/>
 
 [Youtube](https://youtu.be/05DRuuN3OSo) [Download](fr/Meikyo.pdf)
 
